@@ -1,5 +1,3 @@
-# yoyoyoyo
-
 # 🛠️ Fundamental Network Troubleshooting (Module 2)
 
 ## 📘 Overview

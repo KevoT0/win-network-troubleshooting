@@ -121,7 +121,3 @@ By the end of this project, you will be able to:
 - Port forwarding (pending completion)
 
 ---
-
-## 📁 Repository Structure
-
-
